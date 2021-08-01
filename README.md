@@ -2,7 +2,7 @@
 
 ## Upload file POST request hangs
 in simple RESTEasy Reactive project with RestForm file upload endpoint AND Reactive Routes failure handler, only in Quarkus 2.1.0.Final.
-Without failure handler class file upload proceeds successfully.
+Without failure handler file upload proceeds successfully.
 The same task works Ok in Quarkus 2.0.3.Final.
 
 ## quarkus projects creation
